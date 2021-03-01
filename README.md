@@ -4,3 +4,8 @@ O objetivo deste repositório é facilitar a reprodução de uma instalação do
 
 ## Instruções
 
+Basta executar :
+
+```bash
+bash main.sh
+```
