@@ -2,9 +2,9 @@
 
 O objetivo deste repositório é facilitar a reprodução de uma instalação do MySQL que será executada através do **Rundeck**.
 
-## Instruções
+## Instrution
 
-Basta executar :
+Just run:
 
 ```bash
 bash main.sh
